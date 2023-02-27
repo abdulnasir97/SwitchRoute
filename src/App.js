@@ -27,7 +27,8 @@ function App() {
         <h1>Please feel free to email us</h1>
       </Route>
       <Route>
-        <h1>404 Not Found</h1>
+    
+        <h1>404 Page Not Found</h1>
       </Route>
     </div>
   );
